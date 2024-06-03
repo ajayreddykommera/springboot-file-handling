@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: file-handling
+mongo:
+  connectionString: ${connection_string}
+  db_name: file-handling
